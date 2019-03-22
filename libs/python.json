@@ -138,5 +138,10 @@
   {"id":"py.gflags","imports":["gflags"],"name":"gflags","repo":"google/python-gflags","tags":["argument-parsing"],"tech":["utils"],"status":"model-ready"},
   {"id":"py.gooey","imports":["gooey"],"name":"gooey","repo":"chriskiehl/Gooey","tags":["cli2gui"],"tech":["utils"],"status":"model-ready"},
   {"id":"py.psutil","imports":["psutil"],"name":"psutil","repo":"giampaolo/psutil","tags":["system"],"tech":["utils"],"status":"awaiting-model"},
-  {"id":"py.python-dateutil","imports":["dateutil"],"name":"dateutil","repo":"dateutil/dateutil","tags":["date-time"],"tech":["utils"],"status":"awaiting-model"}
+  {"id":"py.python-dateutil","imports":["dateutil"],"name":"dateutil","repo":"dateutil/dateutil","tags":["date-time"],"tech":["utils"],"status":"awaiting-model"},
+  {"id":"py.werkzeug","imports":["werkzeug.wrappers"],"name":"Werkzeug","repo":"pallets/werkzeug","tags":["wsgi"],"tech":["python-web"],"status":"awaiting-model"},
+  {"id":"py.django-extensions","imports":["django_extensions"],"name":"django-extensions","repo":"django-extensions/django-extensions","tags":["django-extensions"],"tech":["python-web"],"status":"awaiting-model"},
+  {"id":"py.twisted","imports":["twisted."],"name":"Twisted","repo":"twisted/twisted","tags":["networking-engine"],"tech":["python-web"],"status":"awaiting-model"},
+  {"id":"py.watchdog","imports":["watchdog."],"name":"watchdog","repo":"gorakhargosh/watchdog","tags":["filesystem"],"tech":["app-data"],"status":"awaiting-model"},
+  {"id":"py.cryptography","imports":["cryptography."],"name":"cryptography","repo":"pyca/cryptography","tags":["cryptography"],"tech":["security"],"status":"awaiting-model"}
 ]
